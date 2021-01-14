@@ -1,0 +1,3 @@
+include ':eth'
+include ':app'
+rootProject.name = "LibEth"
